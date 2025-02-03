@@ -10,3 +10,4 @@
 | 2025-02-01 | *Pointer Networks* | [Read Here](https://arxiv.org/pdf/1506.03134) |
 | 2025-02-02 | *ORDER MATTERS: SEQUENCE TO SEQUENCE FOR SETS* | [Read Here](https://arxiv.org/pdf/1511.06391) |
 
+| 2025-02-03 | *The Question Concerning Technology, and Other Essays Part1* | Buy the book |

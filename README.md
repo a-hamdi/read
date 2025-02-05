@@ -10,3 +10,5 @@
 | 2025-02-01 | *Pointer Networks* | [Read Here](https://arxiv.org/pdf/1506.03134) |
 | 2025-02-02 | *ORDER MATTERS: SEQUENCE TO SEQUENCE FOR SETS* | [Read Here](https://arxiv.org/pdf/1511.06391) |
 | 2025-02-03 | *The Question Concerning Technology, and Other Essays Part1* | Buy the book |
+| 2025-02-04 | *Neural Message Passing for Quantum Chemistry* | [Read Here](https://arxiv.org/pdf/1704.01212) |
+| 2025-02-04 | *Causal Abstraction Learning based on the Semantic Embedding Principle* | [Read Here](https://arxiv.org/pdf/2502.00407) |
